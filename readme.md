@@ -1039,6 +1039,8 @@ GHT = 0.
 
 ## 37. CSMA/CA (Wi-Fi)
 
+https://en.wikipedia.org/wiki/Carrier-sense_multiple_access_with_collision_avoidance
+
 Еще одним примером случайных методов доступа к моноканалу является
 гораздо более сложный алгоритм `CSMA/CA (Carrier Sense Multiple Access with
 Collision Avoidance)` -- множественный доступ с прослушиванием несущей и
